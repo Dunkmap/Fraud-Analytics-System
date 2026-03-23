@@ -396,7 +396,7 @@ def main():
         <div class='hero-text'>
             <h1 class='hero-title' id='heroTitle'></h1>
             <h2 class='hero-subtitle'>Risk Intelligence Center</h2>
-            <p class='hero-desc'>Minimalist real-time simulated fraud detection dashboard</p>
+            <p class='hero-desc'>Real-time simulated fraud detection dashboard</p>
         </div>
     </div>
     
